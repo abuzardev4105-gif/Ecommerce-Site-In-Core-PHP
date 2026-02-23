@@ -1,1 +1,2 @@
-# Ecommerce-Site-In-Core-PHP
+E-commerce Website (Core PHP)
+A fully functional e-commerce web application built entirely with Core PHP (without any frameworks), MySQL, and Bootstrap and Ajax. This project simulates a real-world online store, featuring a dynamic product catalog, a user-friendly shopping cart, a secure user authentication system, and a comprehensive admin panel for managing inventory and orders. The focus of this project was to demonstrate a deep understanding of raw PHP, MVC architecture principles, database relationships, and fundamental web security practices like password hashing and SQL injection prevention.
